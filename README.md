@@ -88,10 +88,6 @@ from config.config_en import Args
 ## Common Issues
 to be added
 
-## Credits
-1. This project was built upon <br> https://medium.com/@ahtishamshafi9906/how-to-build-a-simple-chat-application-in-fastapi-7bafad755654
-2. Spinning donut <br> https://www.a1k0n.net/2011/07/20/donut-math.html
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
